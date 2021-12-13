@@ -2,7 +2,7 @@
 Nama Program    : QueTube (Antrian lagu yang terintegrasi dengan API Youtube Music)
 Dibuat oleh     : Kelompok 11
                   2017051008 - Kayla Atsila Ivanka 
-                  2017051035 - Irfan Saputra (Lead Developer)
+                  2017051035 - Irfan Saputra
 Dibuat pada     : Kamis, 9 Desember 2021, 23:34:55
 Selesai pada    : Sabtu, 11 Desember 2021, 03:23:00
 Revisi pada     : Minggu, 12 Desember 2021, 22:37:00
